@@ -1,0 +1,6 @@
+{
+  "model_version": "20260327_174811",
+  "dataset": "breast_cancer",
+  "model_type": "logistic_regression",
+  "accuracy": 0.9561
+}

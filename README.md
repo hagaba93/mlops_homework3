@@ -105,16 +105,20 @@ Replace `<ipaddress>` with your EC2 instance’s **public IPv4 address**.
 
 You will see three DAGs:
 
-1. **`generate_data_only`**  
-   - Saves `data/iris.csv`.
+**`ml pipeline dag`**  -->
+- this includes 3 tasks namely loading  `data/breast_cancer.csv`. dataset, training the model on the dataset, evaluating the model and if its good its promoted and uploaded to an s3 bucket-->
 
-2. **`train_model_only`**  
-   - Trains a Logistic Regression model from CSV.  
-   - Produces `models/iris_model.pkl`.
 
-3. **`ml_pipeline`**  
-   - End-to-end pipeline:  
-     `generate_data` → `train_model`.
+<!--1. **`generate_data_only`**  -->
+<!--   - Saves `data/iris.csv`.-->
+
+<!--2. **`train_model_only`**  -->
+<!--   - Trains a Logistic Regression model from CSV.  -->
+<!--   - Produces `models/iris_model.pkl`.-->
+
+<!--3. **`ml_pipeline`**  -->
+<!--   - End-to-end pipeline:  -->
+<!--     `generate_data` → `train_model`.-->
 
 ---
 
@@ -123,11 +127,11 @@ You will see three DAGs:
 You can also run scripts directly:
 
 ```
-python scripts/generate_data.py
+python scripts/serve_api.py
 python scripts/train_model.py
 ```
 
-This will produce `data/iris.csv` and `models/iris_model.pkl`.  
+This will produce `data/breast_cancer.csv` and `models/breast_cancer_model.pkl`.  
 
 ---
 
@@ -143,32 +147,53 @@ python scripts/serve_api.py
 
 2. Open docs: http://<ipaddress>:8000/docs  
 
-3. Try a prediction in Swagger UI with four required features:
+3. Try a prediction in Swagger UI with the  required features:
 
 ```
 {
-  "sepal_length": 5.1,
-  "sepal_width": 3.5,
-  "petal_length": 1.4,
-  "petal_width": 0.2
+   mean_radius: float
+    mean_texture: float
+    mean_perimeter: float
+    mean_area: float
+    mean_smoothness: float
+    mean_compactness: float
+    mean_concavity: float
+    mean_concave_points: float
+    mean_symmetry: float
+    mean_fractal_dimension: float
+    radius_error: float
+    texture_error: float
+    perimeter_error: float
+    area_error: float
+    smoothness_error: float
+    compactness_error: float
+    concavity_error: float
+    concave_points_error: float
+    symmetry_error: float
+    fractal_dimension_error: float
+    worst_radius: float
+    worst_texture: float
+    worst_perimeter: float
+    worst_area: float
+    worst_smoothness: float
+    worst_compactness: float
+    worst_concavity: float
+    worst_concave_points: float
+    worst_symmetry: float
+    worst_fractal_dimension: float
 }
 ```
 
 Response:
 
 ```
-{"prediction": "setosa", "class_index": 0}
+{"prediction": "negative", "class_index": 0}
 ```
 
 ---
 
 ## 🌸 Example Inputs
 
-Values that commonly predict each class:
-
-- **Setosa**: `5.1, 3.5, 1.4, 0.2`  
-- **Versicolor**: `6.0, 2.9, 4.5, 1.5`  
-- **Virginica**: `6.9, 3.1, 5.4, 2.1`  
 
 ---
 
