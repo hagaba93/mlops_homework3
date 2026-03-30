@@ -12689,3 +12689,166 @@ File Path                                                                 PID   
 /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py                           0           0  0.10s           2026-03-30T02:31:19                       3
 /home/ec2-user/environment/lab4_model_training/dags/train_model_dag.py                             0           0  0.10s           2026-03-30T02:31:18                       3
 ================================================================================
+[2026-03-30T02:32:20.863+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/home/ec2-user/environment/lab4_model_training/dags/ml_pipeline_dag.py                             1           0  1.91s           2026-03-30T02:32:20                      10
+/home/ec2-user/environment/lab4_model_training/dags/train_model_dag.py                             0           0  0.10s           2026-03-30T02:31:50                       3
+/home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py                           0           0  0.10s           2026-03-30T02:31:51                       3
+================================================================================
+[2026-03-30T02:32:52.519+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/home/ec2-user/environment/lab4_model_training/dags/ml_pipeline_dag.py                             1           0  1.51s           2026-03-30T02:32:52                      10
+/home/ec2-user/environment/lab4_model_training/dags/train_model_dag.py                             0           0  0.10s           2026-03-30T02:32:22                       3
+/home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py                           0           0  0.10s           2026-03-30T02:32:23                       3
+================================================================================
+[2026-03-30T02:33:23.995+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/home/ec2-user/environment/lab4_model_training/dags/ml_pipeline_dag.py                             1           0  1.41s           2026-03-30T02:33:23                      10
+/home/ec2-user/environment/lab4_model_training/dags/train_model_dag.py                             0           0  0.10s           2026-03-30T02:32:53                       3
+/home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py                           0           0  0.10s           2026-03-30T02:32:54                       3
+================================================================================
+[2026-03-30T02:33:57.876+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/home/ec2-user/environment/lab4_model_training/dags/ml_pipeline_dag.py                             1           0  3.81s           2026-03-30T02:33:57                      10
+/home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py                           0           0  0.10s           2026-03-30T02:33:26                       3
+/home/ec2-user/environment/lab4_model_training/dags/train_model_dag.py                             0           0  0.10s           2026-03-30T02:33:25                       3
+================================================================================
+[2026-03-30T02:34:31.013+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/home/ec2-user/environment/lab4_model_training/dags/ml_pipeline_dag.py                             1           0  3.03s           2026-03-30T02:34:31                      10
+/home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py                           0           0  0.14s           2026-03-30T02:34:00                       3
+/home/ec2-user/environment/lab4_model_training/dags/train_model_dag.py                             0           0  0.10s           2026-03-30T02:33:59                       3
+================================================================================
+[2026-03-30T02:35:03.148+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/home/ec2-user/environment/lab4_model_training/dags/ml_pipeline_dag.py                             1           0  2.01s           2026-03-30T02:35:03                      10
+/home/ec2-user/environment/lab4_model_training/dags/train_model_dag.py                             0           0  0.10s           2026-03-30T02:34:32                       3
+/home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py                           0           0  0.10s           2026-03-30T02:34:33                       3
+================================================================================
+[2026-03-30T02:35:34.619+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/home/ec2-user/environment/lab4_model_training/dags/ml_pipeline_dag.py                             1           0  1.41s           2026-03-30T02:35:34                      10
+/home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py                           0           0  0.10s           2026-03-30T02:35:05                       3
+/home/ec2-user/environment/lab4_model_training/dags/train_model_dag.py                             0           0  0.10s           2026-03-30T02:35:04                       3
+================================================================================
+[2026-03-30T02:36:01.227+0000] {manager.py:821} INFO - Searching for files in /home/ec2-user/environment/lab4_model_training/dags
+[2026-03-30T02:36:01.229+0000] {manager.py:824} INFO - There are 3 files in /home/ec2-user/environment/lab4_model_training/dags
+[2026-03-30T02:36:06.091+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/home/ec2-user/environment/lab4_model_training/dags/ml_pipeline_dag.py                             1           0  1.41s           2026-03-30T02:36:06                      10
+/home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py                           0           0  0.10s           2026-03-30T02:35:36                       3
+/home/ec2-user/environment/lab4_model_training/dags/train_model_dag.py                             0           0  0.10s           2026-03-30T02:35:35                       3
+================================================================================
+[2026-03-30T02:36:37.665+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/home/ec2-user/environment/lab4_model_training/dags/ml_pipeline_dag.py                             1           0  1.51s           2026-03-30T02:36:37                      10
+/home/ec2-user/environment/lab4_model_training/dags/train_model_dag.py                             0           0  0.10s           2026-03-30T02:36:07                       3
+/home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py                           0           0  0.10s           2026-03-30T02:36:08                       3
+================================================================================
+[2026-03-30T02:37:09.139+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/home/ec2-user/environment/lab4_model_training/dags/ml_pipeline_dag.py                             1           0  1.41s           2026-03-30T02:37:09                      10
+/home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py                           0           0  0.10s           2026-03-30T02:36:39                       3
+/home/ec2-user/environment/lab4_model_training/dags/train_model_dag.py                             0           0  0.10s           2026-03-30T02:36:38                       3
+================================================================================
+[2026-03-30T02:37:40.620+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/home/ec2-user/environment/lab4_model_training/dags/ml_pipeline_dag.py                             1           0  1.41s           2026-03-30T02:37:40                      10
+/home/ec2-user/environment/lab4_model_training/dags/train_model_dag.py                             0           0  0.10s           2026-03-30T02:37:10                       3
+/home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py                           0           0  0.10s           2026-03-30T02:37:11                       3
+================================================================================
+[2026-03-30T02:38:12.094+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/home/ec2-user/environment/lab4_model_training/dags/ml_pipeline_dag.py                             1           0  1.41s           2026-03-30T02:38:12                      10
+/home/ec2-user/environment/lab4_model_training/dags/train_model_dag.py                             0           0  0.10s           2026-03-30T02:37:41                       3
+/home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py                           0           0  0.10s           2026-03-30T02:37:42                       3
+================================================================================
+[2026-03-30T02:38:43.969+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/home/ec2-user/environment/lab4_model_training/dags/ml_pipeline_dag.py                             1           0  1.81s           2026-03-30T02:38:43                      10
+/home/ec2-user/environment/lab4_model_training/dags/train_model_dag.py                             0           0  0.10s           2026-03-30T02:38:13                       3
+/home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py                           0           0  0.10s           2026-03-30T02:38:14                       3
+================================================================================
+[2026-03-30T02:39:15.551+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/home/ec2-user/environment/lab4_model_training/dags/ml_pipeline_dag.py                             1           0  1.51s           2026-03-30T02:39:15                      10
+/home/ec2-user/environment/lab4_model_training/dags/train_model_dag.py                             0           0  0.10s           2026-03-30T02:38:45                       3
+/home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py                           0           0  0.10s           2026-03-30T02:38:46                       3
+================================================================================
+[2026-03-30T02:39:47.024+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/home/ec2-user/environment/lab4_model_training/dags/ml_pipeline_dag.py                             1           0  1.41s           2026-03-30T02:39:47                      10
+/home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py                           0           0  0.10s           2026-03-30T02:39:17                       3
+/home/ec2-user/environment/lab4_model_training/dags/train_model_dag.py                             0           0  0.10s           2026-03-30T02:39:16                       3
+================================================================================
+[2026-03-30T02:40:14.249+0000] {manager.py:1291} WARNING - Skipping processing of missing file: /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:40:18.614+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/home/ec2-user/environment/lab4_model_training/dags/ml_pipeline_dag.py                           1           0  1.52s           2026-03-30T02:40:18                      10
+/home/ec2-user/environment/lab4_model_training/dags/train_model_dag.py                           0           0  0.10s           2026-03-30T02:39:48                       3
+================================================================================
+[2026-03-30T02:40:21.819+0000] {manager.py:1291} WARNING - Skipping processing of missing file: /home/ec2-user/environment/lab4_model_training/dags/train_model_dag.py

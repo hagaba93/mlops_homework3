@@ -258,3 +258,78 @@
 [2026-03-30T02:31:51.072+0000] {logging_mixin.py:190} INFO - [2026-03-30T02:31:51.071+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
 [2026-03-30T02:31:51.074+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
 [2026-03-30T02:31:51.083+0000] {processor.py:208} INFO - Processing /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py took 0.019 seconds
+[2026-03-30T02:32:23.073+0000] {processor.py:186} INFO - Started process (PID=8802) to work on /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:32:23.074+0000] {processor.py:914} INFO - Processing file /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py for tasks to queue
+[2026-03-30T02:32:23.076+0000] {logging_mixin.py:190} INFO - [2026-03-30T02:32:23.075+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:32:23.078+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:32:23.088+0000] {processor.py:208} INFO - Processing /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py took 0.020 seconds
+[2026-03-30T02:32:54.709+0000] {processor.py:186} INFO - Started process (PID=9024) to work on /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:32:54.710+0000] {processor.py:914} INFO - Processing file /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py for tasks to queue
+[2026-03-30T02:32:54.712+0000] {logging_mixin.py:190} INFO - [2026-03-30T02:32:54.711+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:32:54.714+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:32:54.726+0000] {processor.py:208} INFO - Processing /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py took 0.024 seconds
+[2026-03-30T02:33:26.181+0000] {processor.py:186} INFO - Started process (PID=9150) to work on /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:33:26.182+0000] {processor.py:914} INFO - Processing file /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py for tasks to queue
+[2026-03-30T02:33:26.183+0000] {logging_mixin.py:190} INFO - [2026-03-30T02:33:26.183+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:33:26.186+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:33:26.194+0000] {processor.py:208} INFO - Processing /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py took 0.018 seconds
+[2026-03-30T02:34:00.071+0000] {processor.py:186} INFO - Started process (PID=9364) to work on /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:34:00.081+0000] {processor.py:914} INFO - Processing file /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py for tasks to queue
+[2026-03-30T02:34:00.084+0000] {logging_mixin.py:190} INFO - [2026-03-30T02:34:00.084+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:34:00.097+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:34:00.124+0000] {processor.py:208} INFO - Processing /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py took 0.084 seconds
+[2026-03-30T02:34:33.273+0000] {processor.py:186} INFO - Started process (PID=9515) to work on /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:34:33.274+0000] {processor.py:914} INFO - Processing file /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py for tasks to queue
+[2026-03-30T02:34:33.276+0000] {logging_mixin.py:190} INFO - [2026-03-30T02:34:33.276+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:34:33.278+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:34:33.289+0000] {processor.py:208} INFO - Processing /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py took 0.022 seconds
+[2026-03-30T02:35:05.335+0000] {processor.py:186} INFO - Started process (PID=9697) to work on /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:35:05.336+0000] {processor.py:914} INFO - Processing file /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py for tasks to queue
+[2026-03-30T02:35:05.338+0000] {logging_mixin.py:190} INFO - [2026-03-30T02:35:05.338+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:35:05.340+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:35:05.349+0000] {processor.py:208} INFO - Processing /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py took 0.019 seconds
+[2026-03-30T02:35:36.805+0000] {processor.py:186} INFO - Started process (PID=9813) to work on /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:35:36.805+0000] {processor.py:914} INFO - Processing file /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py for tasks to queue
+[2026-03-30T02:35:36.807+0000] {logging_mixin.py:190} INFO - [2026-03-30T02:35:36.807+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:35:36.809+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:35:36.818+0000] {processor.py:208} INFO - Processing /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py took 0.018 seconds
+[2026-03-30T02:36:08.278+0000] {processor.py:186} INFO - Started process (PID=9987) to work on /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:36:08.280+0000] {processor.py:914} INFO - Processing file /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py for tasks to queue
+[2026-03-30T02:36:08.281+0000] {logging_mixin.py:190} INFO - [2026-03-30T02:36:08.281+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:36:08.283+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:36:08.292+0000] {processor.py:208} INFO - Processing /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py took 0.019 seconds
+[2026-03-30T02:36:39.856+0000] {processor.py:186} INFO - Started process (PID=10076) to work on /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:36:39.857+0000] {processor.py:914} INFO - Processing file /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py for tasks to queue
+[2026-03-30T02:36:39.858+0000] {logging_mixin.py:190} INFO - [2026-03-30T02:36:39.858+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:36:39.860+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:36:39.869+0000] {processor.py:208} INFO - Processing /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py took 0.018 seconds
+[2026-03-30T02:37:11.335+0000] {processor.py:186} INFO - Started process (PID=10161) to work on /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:37:11.336+0000] {processor.py:914} INFO - Processing file /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py for tasks to queue
+[2026-03-30T02:37:11.338+0000] {logging_mixin.py:190} INFO - [2026-03-30T02:37:11.337+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:37:11.340+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:37:11.349+0000] {processor.py:208} INFO - Processing /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py took 0.018 seconds
+[2026-03-30T02:37:42.814+0000] {processor.py:186} INFO - Started process (PID=10313) to work on /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:37:42.816+0000] {processor.py:914} INFO - Processing file /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py for tasks to queue
+[2026-03-30T02:37:42.817+0000] {logging_mixin.py:190} INFO - [2026-03-30T02:37:42.817+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:37:42.820+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:37:42.830+0000] {processor.py:208} INFO - Processing /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py took 0.020 seconds
+[2026-03-30T02:38:14.281+0000] {processor.py:186} INFO - Started process (PID=10412) to work on /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:38:14.282+0000] {processor.py:914} INFO - Processing file /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py for tasks to queue
+[2026-03-30T02:38:14.283+0000] {logging_mixin.py:190} INFO - [2026-03-30T02:38:14.283+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:38:14.286+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:38:14.294+0000] {processor.py:208} INFO - Processing /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py took 0.018 seconds
+[2026-03-30T02:38:46.168+0000] {processor.py:186} INFO - Started process (PID=10543) to work on /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:38:46.169+0000] {processor.py:914} INFO - Processing file /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py for tasks to queue
+[2026-03-30T02:38:46.170+0000] {logging_mixin.py:190} INFO - [2026-03-30T02:38:46.170+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:38:46.172+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:38:46.182+0000] {processor.py:208} INFO - Processing /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py took 0.019 seconds
+[2026-03-30T02:39:17.743+0000] {processor.py:186} INFO - Started process (PID=10642) to work on /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:39:17.744+0000] {processor.py:914} INFO - Processing file /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py for tasks to queue
+[2026-03-30T02:39:17.745+0000] {logging_mixin.py:190} INFO - [2026-03-30T02:39:17.745+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:39:17.748+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:39:17.758+0000] {processor.py:208} INFO - Processing /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py took 0.020 seconds
+[2026-03-30T02:39:49.211+0000] {processor.py:186} INFO - Started process (PID=10718) to work on /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:39:49.212+0000] {processor.py:914} INFO - Processing file /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py for tasks to queue
+[2026-03-30T02:39:49.213+0000] {logging_mixin.py:190} INFO - [2026-03-30T02:39:49.213+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:39:49.217+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py
+[2026-03-30T02:39:49.227+0000] {processor.py:208} INFO - Processing /home/ec2-user/environment/lab4_model_training/dags/generate_data_dag.py took 0.021 seconds
